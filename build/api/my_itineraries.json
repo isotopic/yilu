@@ -1,0 +1,14 @@
+{
+   "my_itineraries":[
+      {
+         "itinerary_id":"3dd59474-f467-42bc-8098-3c1695ab362d",
+         "origin_iata":"TXL",
+         "destination_iata":"MUC"
+      },
+      {
+         "itinerary_id":"3dd59474-f467-42bc-8098-3c1695ab362d__2",
+         "origin_iata":"GRU",
+         "destination_iata":"HNL"
+      }
+   ]
+}
